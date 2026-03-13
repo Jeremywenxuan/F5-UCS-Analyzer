@@ -33,7 +33,7 @@
 ### 1. 激活虚拟环境
 
 ```bash
-cd E:\ForOpenClaw\Codeing\F5\F5-UCS-Analyzer
+cd F5-UCS-Analyzer
 .\venv\Scripts\activate
 ```
 
